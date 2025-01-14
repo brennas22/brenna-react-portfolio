@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brenna-react-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/brenna-react-portfolio/static/js/main.5232871c.js",
+    "static/js/488.8d59c9aa.chunk.js": "/brenna-react-portfolio/static/js/488.8d59c9aa.chunk.js",
+    "static/media/logo.svg": "/brenna-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brenna-react-portfolio/index.html",
+    "main.f855e6bc.css.map": "/brenna-react-portfolio/static/css/main.f855e6bc.css.map",
+    "main.5232871c.js.map": "/brenna-react-portfolio/static/js/main.5232871c.js.map",
+    "488.8d59c9aa.chunk.js.map": "/brenna-react-portfolio/static/js/488.8d59c9aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5232871c.js"
+  ]
+}
